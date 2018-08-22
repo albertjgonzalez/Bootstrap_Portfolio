@@ -13,6 +13,7 @@ nav{
 }
 .topBar{
   background-color: white;
+  border-bottom: solid lightgrey 1px;
 }
 .navbar-nav { 
   flex-direction: row;
@@ -27,4 +28,32 @@ nav a{
   margin: -7px;
   display: inline;
 
+}
+
+.content{
+  width: 960px;
+  background-color: white;
+  margin: auto;
+  margin-top: 40px; 
+  padding: 20px;
+  border: solid lightgrey 1px;
+}
+
+.contentHeader{
+  border-bottom:solid lightgrey 2px;
+
+  margin-bottom: 10px; 
+}
+
+.page-footer{
+ 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: lightgrey;
+    text-align: center;
+  border-top:solid rgb(197, 150, 209) 5px;
+  padding: 5px;
 }
