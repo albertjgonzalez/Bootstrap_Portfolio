@@ -57,3 +57,36 @@ nav a{
   border-top:solid rgb(197, 150, 209) 5px;
   padding: 5px;
 }
+.tech1{
+  background-image: url(../images/tech1.jpg);
+  height: 175px;
+  width: 150px;
+  
+}
+.tech2{
+  background-image: url(../images/tech2.jpg);
+  height: 175px;
+  width: 150px;
+  
+}
+.tech3{
+  background-image: url(../images/tech3.jpg);
+  height: 175px;
+  width: 150px;
+  
+}
+.tech4{
+  background-image: url(../images/tech4.jpg);
+  height: 175px;
+  width: 150px;
+  
+}
+.tech5{
+  background-image: url(../images/tech5.jpg);
+  height: 175px;
+  width: 150px;
+  
+}
+div.row div.col-3{
+  margin:15px;
+}
